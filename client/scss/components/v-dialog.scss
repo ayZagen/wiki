@@ -1,5 +1,5 @@
 .v-dialog__content {
-  z-index: 1001; // nav-header's index is 1000
+  z-index: 1001 !important;
 
   .v-dialog--scrollable {
     flex-direction: column;
